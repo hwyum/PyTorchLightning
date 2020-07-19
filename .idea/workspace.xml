@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb993fb6-d706-420e-940f-b5fa68418fdc" name="Default" comment="" />
+    <list default="true" id="cb993fb6-d706-420e-940f-b5fa68418fdc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lightning_module.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lightning_module.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LitCharCNN/model/lightning_module.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1998">
@@ -66,6 +68,18 @@
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="18">
+                <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -92,18 +106,6 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="ops.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LitCharCNN/model/ops.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -118,6 +120,9 @@
       <find>tokenizer</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -126,6 +131,7 @@
         <option value="$PROJECT_DIR$/train.py" />
         <option value="$PROJECT_DIR$/model/lightning_module.py" />
         <option value="$PROJECT_DIR$/LitCharCNN/model/lightning_module.py" />
+        <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
   </component>
@@ -135,6 +141,7 @@
     <option name="width" value="1720" />
     <option name="height" value="1417" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -146,6 +153,11 @@
             <path>
               <item name="PyTorchLightening" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyTorchLightening" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyTorchLightening" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyTorchLightening" type="462c0819:PsiDirectoryNode" />
+              <item name="LitCharCNN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,14 +221,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3440" y="-1094" width="3440" height="1440" extended-state="0" />
+    <frame x="-3440" y="-1071" width="1720" height="1417" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18455689" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08534432" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.22045454" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.32954547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" weight="0.32954547" />
@@ -307,6 +320,16 @@
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="18">
+            <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
